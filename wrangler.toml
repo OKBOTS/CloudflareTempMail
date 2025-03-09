@@ -3,8 +3,10 @@ main = "src/index.js"
 compatibility_date = "2022-12-05"
 usage_model = "unbound"
 kv_namespaces = [
-    { binding = "INBOXES", id = "eac7b9e40f83425f866d8ab4ceb37270"}
+    { binding = "INBOXES", id = "c492f9c59fd546ccae998b5f16e15432"}
 ]
 
 [vars]
 EMAIL_TIMEOUT = 86400
+EMAIL_DOMAIN = prxy.us.kg
+FORWARD_EMAIL = lykcloud@dr.com

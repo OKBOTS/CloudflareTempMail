@@ -2,6 +2,8 @@
     "name": "email_worker_parser",
     "version": "0.0.0",
     "devDependencies": {
+        "miniflare": "^3.20250224.0",
+        "mocha": "^11.1.0",
         "postal-mime": "^2.1.2",
         "wrangler": "3.0.1"
     },
